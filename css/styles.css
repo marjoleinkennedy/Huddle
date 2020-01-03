@@ -1,0 +1,110 @@
+/*****tags*****/
+body {
+  background-color: #6648B1;
+  background-image: url("images/bg-desktop.svg");
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  width: 30%;
+  position: absolute;
+  margin-top: 235px;
+  margin-left: 830px;
+}
+p{
+  width: 37%;
+  color: #FFFFFF;
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 1.5;
+  position: absolute;
+  margin-top: 380px;
+  margin-left: 830px;
+}
+
+/*****classes*****/
+
+.btn {
+	-moz-box-shadow: 3px 5px 9px 0 #3b203b;
+	-webkit-box-shadow: 3px 5px 9px 0 #3b203b;
+	box-shadow: 3px 5px 9px 0 #3b203b;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff) );
+	background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+	background-color:#ffffff;
+	-webkit-border-top-left-radius:30px;
+	-moz-border-radius-topleft:30px;
+	border-top-left-radius:30px;
+	-webkit-border-top-right-radius:30px;
+	-moz-border-radius-topright:30px;
+	border-top-right-radius:30px;
+	-webkit-border-bottom-right-radius:30px;
+	-moz-border-radius-bottomright:30px;
+	border-bottom-right-radius:30px;
+	-webkit-border-bottom-left-radius:30px;
+	-moz-border-radius-bottomleft:30px;
+	border-bottom-left-radius:30px;
+	text-indent:0;
+	display:inline-block;
+	color:#6648b1;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:lighter;
+	font-style:normal;
+	height:55px;
+	line-height:55px;
+	width:185px;
+	text-decoration:none;
+	text-align:center;
+  margin-top: 490px;
+  margin-left: 830px;
+  position: absolute;
+}
+
+.illustration {
+  position: absolute;
+  margin-top: 195px;
+  margin-left: 60px;
+}
+
+.logo {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+/**.middle-container{
+  position: relative;
+}**/
+.top-container {
+  position: relative;
+}
+
+.facebook{
+  position: absolute;
+  margin-left:1220px;
+  margin-top: 720px;
+  width: 30px;
+  height: 30px;
+}
+
+.instagram{
+  position: absolute;
+  margin-left:1320px;
+  margin-top: 720px;
+  width: 30px;
+  height: 30px;
+}
+
+.twitter{
+  position: absolute;
+  margin-left:1270px;
+  margin-top: 720px;
+  width: 30px;
+  height: 30px;
+}
